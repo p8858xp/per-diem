@@ -1,3 +1,0 @@
-with plain javascript
-with jquery ajax
-with promised pattern
